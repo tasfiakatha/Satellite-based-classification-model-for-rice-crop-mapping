@@ -113,28 +113,8 @@ To enhance outcomes, we propose strategic measures: expanding training data, exp
 
 # Repository structure
 
-├── Assets
-│   ├── KNN_insmaple.png                          <- in sample confusion matrix image used in the README.
-│   ├── KNN_outsmaple.png                         <- out sample confusion matrix image used in the README.
-│   ├── ROC_logistic regression.png               <- logistic regression ROC image used in the README.
-│   ├── scene_5.png                               <- scene 5 RGB image used in the README.
-│   ├── scene_array.png                           <- all scenes array image used in the README.
-│   └── roc.png                                   <- ROC image used in the README.
-│
-├── Dataset
-│   └── Crop_Location_Data_20221201.csv           <- 600 geolocation rice fields training dataset.
-│                          
-├── Final Presentation.pptx                       <- final project presentation powerpoint.
-│                    
-├── LICENSE                                       <- license file.
-│
-├── Project Proposal.pdf                          <- project proposal file.
-│
-├── README.md                                     <- this readme file.
-│
-├── Satellite-based model for rice crop mapping and monitoring.ipynb <- python model notebook
-│
-└── Value Case.pdf                                <- value case for the project
+![image](https://github.com/tasfiakatha/Satellite-based-classification-model-for-rice-crop-mapping/assets/120822849/06c3ede7-1c4d-4a9a-9a0a-83fcd9b1f57f)
+
 
 ## Contribution
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change or contribute.
