@@ -5,7 +5,7 @@
 ## Authors
 [@tasfiakatha](https://github.com/tasfiakatha)
 
-## Table of Contents
+## Table of contents
 - [Business problem statement](https://github.com/tasfiakatha/Satellite-based-classification-model-for-rice-crop-mapping/blob/main/README.md#business-problem-statement)
 - [Data source](https://github.com/tasfiakatha/Satellite-based-classification-model-for-rice-crop-mapping/blob/main/README.md#data-source)
 - [Methods](https://github.com/tasfiakatha/Satellite-based-classification-model-for-rice-crop-mapping/blob/main/README.md#methods)
