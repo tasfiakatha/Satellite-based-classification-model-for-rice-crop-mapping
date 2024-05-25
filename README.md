@@ -11,6 +11,7 @@
 - [Methods](https://github.com/tasfiakatha/Satellite-based-classification-model-for-rice-crop-mapping/blob/main/README.md#methods)
 - [Quick look at the results](https://github.com/tasfiakatha/Satellite-based-classification-model-for-rice-crop-mapping/blob/main/README.md#quick-look-at-the-results)
 - [Value case summary](https://github.com/tasfiakatha/Satellite-based-classification-model-for-rice-crop-mapping/blob/main/README.md#value-case-summary)
+- [Repository structure](https://github.com/tasfiakatha/Satellite-based-classification-model-for-rice-crop-mapping/blob/main/README.md#repository-structure)
 - [Contribution](https://github.com/tasfiakatha/Satellite-based-classification-model-for-rice-crop-mapping/blob/main/README.md#contribution)
 - [License](https://github.com/tasfiakatha/Satellite-based-classification-model-for-rice-crop-mapping/blob/main/README.md#license)
 
@@ -109,6 +110,31 @@ market dynamics, optimize procurement strategies, and streamline supply chain op
 The integration of satellite data for predicting rice crop presence unlocks substantial opportunities for refining market planning and trade strategies as a business case. Targeting food distributors, retailers, commodity traders, and market analysts, this analysis delivers precise market trend predictions by forecasting rice crop presence and yield. By anticipating supply fluctuations, demand dynamics, and price trends, stakeholders can optimize procurement decisions, boost competitiveness, and capitalize on emerging opportunities. To effectively market and publicize this analysis, tailored outreach campaigns, thought leadership content, strategic collaborations, and success stories will be employed. Funding for the project will be pursued through strategic partnerships, venture capital investment, and government grants, aiming to advance market transparency, efficiency, and sustainability.
 
 To enhance outcomes, we propose strategic measures: expanding training data, exploring diverse bounding box configurations, adopting ensemble learning, and optimizing machine learning algorithms and feature selection. These steps aim to drive innovation, efficiency, and sustainability in the rice industry, benefiting stakeholders at all levels.
+
+# Repository structure
+
+├── Assets
+│   ├── KNN_insmaple.png                          <- in sample confusion matrix image used in the README.
+│   ├── KNN_outsmaple.png                         <- out sample confusion matrix image used in the README.
+│   ├── ROC_logistic regression.png               <- logistic regression ROC image used in the README.
+│   ├── scene_5.png                               <- scene 5 RGB image used in the README.
+│   ├── scene_array.png                           <- all scenes array image used in the README.
+│   └── roc.png                                   <- ROC image used in the README.
+│
+├── Dataset
+│   └── Crop_Location_Data_20221201.csv           <- 600 geolocation rice fields training dataset.
+│                          
+├── Final Presentation.pptx                       <- final project presentation powerpoint.
+│                    
+├── LICENSE                                       <- license file.
+│
+├── Project Proposal.pdf                          <- project proposal file.
+│
+├── README.md                                     <- this readme file.
+│
+├── Satellite-based model for rice crop mapping and monitoring.ipynb <- python model notebook
+│
+└── Value Case.pdf                                <- value case for the project
 
 ## Contribution
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change or contribute.
