@@ -11,6 +11,7 @@
 - [Methods](https://github.com/tasfiakatha/Satellite-based-classification-model-for-rice-crop-mapping/blob/main/README.md#methods)
 - [Quick look at the results](https://github.com/tasfiakatha/Satellite-based-classification-model-for-rice-crop-mapping/blob/main/README.md#quick-look-at-the-results)
 - [Value case summary](https://github.com/tasfiakatha/Satellite-based-classification-model-for-rice-crop-mapping/blob/main/README.md#value-case-summary)
+- [Explore the notebook](https://github.com/tasfiakatha/Satellite-based-classification-model-for-rice-crop-mapping/blob/main/README.md#explore-the-notebook)
 - [Repository structure](https://github.com/tasfiakatha/Satellite-based-classification-model-for-rice-crop-mapping/blob/main/README.md#repository-structure)
 - [Contribution](https://github.com/tasfiakatha/Satellite-based-classification-model-for-rice-crop-mapping/blob/main/README.md#contribution)
 - [License](https://github.com/tasfiakatha/Satellite-based-classification-model-for-rice-crop-mapping/blob/main/README.md#license)
@@ -110,6 +111,9 @@ market dynamics, optimize procurement strategies, and streamline supply chain op
 The integration of satellite data for predicting rice crop presence unlocks substantial opportunities for refining market planning and trade strategies as a business case. Targeting food distributors, retailers, commodity traders, and market analysts, this analysis delivers precise market trend predictions by forecasting rice crop presence and yield. By anticipating supply fluctuations, demand dynamics, and price trends, stakeholders can optimize procurement decisions, boost competitiveness, and capitalize on emerging opportunities. To effectively market and publicize this analysis, tailored outreach campaigns, thought leadership content, strategic collaborations, and success stories will be employed. Funding for the project will be pursued through strategic partnerships, venture capital investment, and government grants, aiming to advance market transparency, efficiency, and sustainability.
 
 To enhance outcomes, we propose strategic measures: expanding training data, exploring diverse bounding box configurations, adopting ensemble learning, and optimizing machine learning algorithms and feature selection. These steps aim to drive innovation, efficiency, and sustainability in the rice industry, benefiting stakeholders at all levels.
+
+# Explore the notebook
+Explore the notebook file [here](https://nbviewer.org/github/tasfiakatha/Satellite-based-classification-model-for-rice-crop-mapping/blob/main/Satellite-based%20model%20for%20rice%20crop%20mapping%20and%20monitoring.ipynb)
 
 # Repository structure
 
