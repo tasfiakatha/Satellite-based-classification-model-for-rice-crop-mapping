@@ -21,24 +21,13 @@ Vietnam's rice industry, centered in the Mekong Delta, faces a critical juncture
 ## Methods
 **Data Acquisition:**
 Satellite Imagery
-1. Optical Data: Utilize high-resolution optical data from Sentinel-1 to capture detailed information about land cover and vegetation health.
-2. Radar Data: Leverage radar data from NASA's Landsat-8 and 9 satellites for its all-weather capability to penetrate cloud cover and provide valuable insights during monsoon seasons.
+1. Optical Data: Utilize high-resolution optical data from NASA's Landsat-8 and 9 satellites to capture detailed information about land cover and vegetation health.
+2. Radar Data: Leverage radar data from Sentinel-1 for its all-weather capability to penetrate cloud cover and provide valuable insights during monsoon seasons.
 
 **Feature Extraction and Selection:**
 1. Spectral Features: Extract relevant spectral information from the optical data, such as reflectance values across different wavelengths.
-2. Textural Features: Analyze the spatial arrangement of pixels within the image to capture information about field size, crop uniformity, and potential disease outbreaks.
+2. Textural Features: Analyze the spatial arrangement of pixels within the image to capture information about field size, crop uniformity and crop presence.
 3. Temporal Features: Exploit the temporal dimension of the data by incorporating multi-temporal imagery spanning different growth stages of the rice crop.
-
-**Model Development and Training:**
-
-1. Geolocation Data: Utilize the 600 known rice field locations across Vietnam to create "ground truth" data for model training.
-2. Algorithmic Exploration: Experiment with different machine learning algorithms and combinations, potentially including Random Forests, Support Vector Machines, and Deep Learning models.
-3. Permutations and Combinations: Train various models with different feature sets (spectral, textural, temporal) and combinations to identify the most effective approach.
-
-**Validation and Testing:**
-
-1. New Locations: Evaluate the performance of the trained models on rice fields in unseen locations to assess their generalizability.
-2. Accuracy Assessment: Employ standard metrics like Root Mean Squared Error (RMSE) or R-squared to quantify the accuracy of the model predictions.
 
 **Enhancing Preprocessing Techniques:**
 
@@ -56,6 +45,17 @@ Satellite Imagery
 Clustering Optical Data:
 
 **K-means Clustering:** Apply K-means clustering to group similar optical data points together, potentially revealing distinct land cover types within the study area. This can further refine the model's understanding of the agricultural landscape.
+
+**Model Development and Training:**
+
+1. Geolocation Data: Utilize the 600 known rice field locations across Vietnam to create "ground truth" data for model training.
+2. Algorithmic Exploration: Experiment with different machine learning algorithms and combinations, potentially including Random Forests, Extreme Gradient Boosting, and K-Nearest Neighbors models.
+3. Permutations and Combinations: Train various models with different feature sets (spectral, textural, temporal) and combinations to identify the most effective approach.
+
+**Validation and Testing:**
+
+1. New Locations: Evaluate the performance of the trained models on rice fields in unseen locations to assess their generalizability.
+2. Accuracy Assessment: Employ standard metrics like accuracy, F1 score or confusion matrix to quantify the accuracy of the model predictions.
 
 ## Value case summary
 Our value case underscores the strategic integration of satellite data and advanced machine learning techniques across three crucial domains within the rice industry:
