@@ -112,10 +112,10 @@ The integration of satellite data for predicting rice crop presence unlocks subs
 
 To enhance outcomes, we propose strategic measures: expanding training data, exploring diverse bounding box configurations, adopting ensemble learning, and optimizing machine learning algorithms and feature selection. These steps aim to drive innovation, efficiency, and sustainability in the rice industry, benefiting stakeholders at all levels.
 
-# Explore the notebook
+## Explore the notebook
 Explore the notebook file [here](https://nbviewer.org/github/tasfiakatha/Satellite-based-classification-model-for-rice-crop-mapping/blob/main/Satellite-based%20model%20for%20rice%20crop%20mapping%20and%20monitoring.ipynb)
 
-# Repository structure
+## Repository structure
 
 ![image](https://github.com/tasfiakatha/Satellite-based-classification-model-for-rice-crop-mapping/assets/120822849/06c3ede7-1c4d-4a9a-9a0a-83fcd9b1f57f)
 
